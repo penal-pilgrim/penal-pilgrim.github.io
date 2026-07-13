@@ -1,1 +1,1 @@
-(kiedyś coś tutaj wrzucę)
+Student prawa na Uniwersytecie Warszawskim, zainteresowany naukowo szeroko rozumianym prawem karnym, w&nbsp;tym prawem penitencjarnym. Konfesyjny [partykularny](https://pl.wikipedia.org/wiki/Reformowani_bapty%C5%9Bci) baptysta.
