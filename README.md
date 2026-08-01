@@ -8,8 +8,8 @@
   <ul>
     <li><b>anglojęzycznych:</b></li>
       <ul>
+        <li><i><a href="https://freechurch.org/praise-resources/#psalms" target="_blank">Scottish Metrical Psalter</a></i> (1650) – dostępny także w aplikacji <a href="https://www.bible.com/pl/bible/1365/PSA.23.MP1650" target="_blank">Biblia YouVersion</a></li>
         <li><i><a href="https://freechurch.org/praise-resources/#psalms" target="_blank">Sing Psalms</a></i> (2003) &copy; Psalmody and Praise Committee of the Free Church of Scotland</li>
-        <li><i><a href="https://freechurch.org/praise-resources/#psalms" target="_blank">Scottish Metrical Psalter</a></i> (1650)</li>
       </ul>
     <li><b>polskojęzycznych:</b></li>
       <ul>
