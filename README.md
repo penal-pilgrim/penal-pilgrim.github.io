@@ -3,9 +3,9 @@
 <!--<h2>Działalność naukowa</h2>
 <p align=justify><i>...</i></p>-->
 
-<h2>Konfesyjność</h2>
+<h2>Oświadczenie konfesyjne</h2>
 <p align=justify>Oświadczam, że według mojej najlepszej wiedzy wiara, którą wyznaję, jest wiernie podsumowana w&nbsp;<em>Londyńskim wyznaniu wiary z&nbsp;1689&nbsp;r.</em> (bez wyjątków) oraz <em>Wyznaniu wiary baptystów polskich z&nbsp;1930&nbsp;r.</em> (wyjątek: przysięgi).</p>
-<p align="right">14 sierpnia 2026&nbsp;r.</p>
+<p align="right">19 sierpnia 2026&nbsp;r.</p>
 
 <h2>Zasoby psalmistyczne i hymniczne</h2>
 <p>Śpiewam psalmy, korzystając z&nbsp;psałterzy:
@@ -23,3 +23,10 @@
   </ul>
 </p>
 <p>Śpiewam hymny, korzystając głównie ze&nbsp;śpiewnika <a href="https://github.com/krzysztof-radzimski/OpenSong-Spiewnik-Glos-Wiary" target="_blank">Głos Wiary</a> (1979) &copy; Wydawnictwo Słowo Prawdy</p>
+<p>Polecam następujące repozytoria z&nbsp;tekstami pieśni w&nbsp;formie <i><a href="https://opensong.org" target="_blank">OpenSong</a></i>:
+  <ul>
+    <li><a href="https://github.com/kechnt/OpenSong-Spiewnik-Glos-Wiary" target="_blank">kechnt / OpenSong-Spiewnik-Glos-Wiary</a></li>
+    <li><a href="https://github.com/kechnt/OpenSong-Spiewnik-Pielgrzyma" target="_blank">kechnt / OpenSong-Spiewnik-Pielgrzyma</a></li>
+    <li><a href="https://github.com/kechnt/OpenSong-Spiewnik-Wedrowiec" target="_blank">kechnt / OpenSong-Spiewnik-Wedrowiec</a></li>
+  </ul>
+</p>
