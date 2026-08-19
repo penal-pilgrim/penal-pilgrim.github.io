@@ -8,7 +8,7 @@
 <p align="right">19 sierpnia 2026&nbsp;r.</p>
 
 <h2>Zasoby psalmistyczne i hymniczne</h2>
-<p>Śpiewam psalmy, korzystając z&nbsp;psałterzy:
+<p>Śpiewam psalmy korzystając z&nbsp;psałterzy:
   <ul>
     <li><b>anglojęzycznych:</b></li>
       <ul>
@@ -22,7 +22,7 @@
       </ul>
   </ul>
 </p>
-<p>Śpiewam hymny, korzystając głównie ze&nbsp;śpiewnika <a href="https://github.com/krzysztof-radzimski/OpenSong-Spiewnik-Glos-Wiary" target="_blank">Głos Wiary</a> (1979) &copy; Wydawnictwo Słowo Prawdy</p>
+<p>Śpiewam hymny korzystając głównie ze&nbsp;śpiewnika <a href="https://github.com/krzysztof-radzimski/OpenSong-Spiewnik-Glos-Wiary" target="_blank">Głos Wiary</a> (1979) &copy; Wydawnictwo Słowo Prawdy</p>
 <p>Polecam następujące repozytoria z&nbsp;tekstami pieśni w&nbsp;formie <i><a href="https://opensong.org" target="_blank">OpenSong</a></i>:
   <ul>
     <li><a href="https://github.com/kechnt/OpenSong-Spiewnik-Glos-Wiary" target="_blank">kechnt / OpenSong-Spiewnik-Glos-Wiary</a></li>
