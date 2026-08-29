@@ -8,12 +8,13 @@
 <p align="right">19 sierpnia 2026&nbsp;r.</p>
 
 <h2>Zasoby psalmistyczne i hymniczne</h2>
-<p>Śpiewam psalmy korzystając z&nbsp;psałterzy:
+<p>Śpiewam psalmy korzystając z&nbsp;drukowanych psałterzy:
   <ul>
     <li><b>anglojęzycznych:</b></li>
       <ul>
         <li><i><a href="https://freechurch.org/praise-resources/#psalms" target="_blank">Scottish Metrical Psalter</a></i> (1650) – dostępny także w aplikacji <a href="https://www.bible.com/pl/bible/1365/PSA.23.MP1650" target="_blank">Biblia YouVersion</a></li>
         <li><i><a href="https://freechurch.org/praise-resources/#psalms" target="_blank">Sing Psalms</a></i> (2003) &copy; Psalmody and Praise Committee of the Free Church of Scotland</li>
+        <li><i><a href="https://www.trinitypsalterhymnal.org/song-collection" target="_blank">Trinity Psalter Hymnal</a></i> (2018) &copy; OPC/URCNA</li>
       </ul>
     <li><b>polskojęzycznych:</b></li>
       <ul>
@@ -22,7 +23,12 @@
       </ul>
   </ul>
 </p>
-<p>Śpiewam hymny korzystając głównie ze&nbsp;śpiewnika <a href="https://github.com/krzysztof-radzimski/OpenSong-Spiewnik-Glos-Wiary" target="_blank">Głos Wiary</a> (1979) &copy; Wydawnictwo Słowo Prawdy</p>
+<p>Śpiewam i&nbsp;gram hymny korzystając z&nbsp;drukowanych śpiewników:
+  <ul>
+    <li><a href="https://github.com/kechnt/OpenSong-Spiewnik-Glos-Wiary" target="_blank">Głos Wiary</a> (1979) &copy; Wydawnictwo Słowo Prawdy (pol.)</li>
+    <li><i><a href="https://www.trinitypsalterhymnal.org/song-collection" target="_blank">Trinity Psalter Hymnal</a></i> (2018) &copy; OPC/URCNA (ang.)</li>
+  </ul>
+</p>
 <p>Polecam następujące repozytoria z&nbsp;tekstami pieśni w&nbsp;formie <i><a href="https://opensong.org" target="_blank">OpenSong</a></i>:
   <ul>
     <li><a href="https://github.com/kechnt/OpenSong-Spiewnik-Glos-Wiary" target="_blank">kechnt / OpenSong-Spiewnik-Glos-Wiary</a></li>
