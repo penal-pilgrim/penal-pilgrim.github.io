@@ -4,8 +4,9 @@
 <p align=justify><i>...</i></p>-->
 
 <h2>Oświadczenie konfesyjne</h2>
-<p align=justify>Oświadczam, że według mojej najlepszej wiedzy wiara, którą wyznaję, jest wiernie podsumowana w&nbsp;<em>Londyńskim wyznaniu wiary z&nbsp;1689&nbsp;r.</em> (bez wyjątków) oraz <em>Wyznaniu wiary baptystów polskich z&nbsp;1930&nbsp;r.</em> (wyjątek: przysięgi).</p>
-<p align="right">19 sierpnia 2026&nbsp;r.</p>
+<p align="justify">Oświadczam, że według mojej najlepszej wiedzy wiara, którą wyznaję, jest wiernie podsumowana w&nbsp;<em>Londyńskim wyznaniu wiary z&nbsp;1689&nbsp;r.</em> (bez wyjątków) oraz <em>Wyznaniu wiary baptystów polskich z&nbsp;1930&nbsp;r.</em> (wyjątki: przysięgi, Chrzest jako warunek uczestnictwa w&nbsp;Wieczerzy Pańskiej).</p>
+<p align="justify"><b>Wyjaśnienie wyjątków od konfesji:</b> …</p>
+<p align="right">1 listopada 2026&nbsp;r.</p>
 
 <h2>Zasoby psalmistyczne i hymniczne</h2>
 <p>Śpiewam psalmy korzystając z&nbsp;drukowanych psałterzy:
